@@ -1,0 +1,51 @@
+img {
+    border: 5px solid rgb(56, 55, 55);
+}
+
+h1 {
+    color:bisque;
+}
+
+.body_text {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.large {
+    font-size:30px;
+    font-style:italic;
+}
+
+.picture {
+    position:absolute;
+    left:10px;
+    width:700px;
+}
+
+.video {
+    position:absolute;
+    right:10px;
+    width:700px;
+    height: 413px;
+}
+
+.back_to_text1{
+    position:absolute;
+    margin-left: 300px;
+}
+
+.back_to_text2 {
+    position:absolute;
+    right: 300px;
+}
+
+.name {
+    color:bisque;
+    font-weight: bold;
+}
+
+.picture1 {
+    position: absolute;
+    width: 300px;
+    top: -110px;
+    left:20px;
+}
